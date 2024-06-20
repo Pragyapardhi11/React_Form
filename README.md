@@ -1,7 +1,7 @@
 # React_Form
 # Basic Dynamic FormwithConditional Fields
  Objective: Build a form with dynamic fields and simple validation.
- # FormType: Event Registration Form
+ FormType: Event Registration Form
  1.
  FormFields:
  ○ Name(Text)
@@ -25,7 +25,7 @@
  Field Types
  Objective: Build a more complex form with nested conditional fields, multiple field
  types, and enhanced validation.
-# FormType: Job Application Form
+ FormType: Job Application Form
  1.
  FormFields:
  ○ Full Name(Text)
@@ -59,7 +59,7 @@
  Sections, and Integration with an API
  Objective: Build an advanced form with complex conditional fields, dynamic sections,
  and integration with an external API for data fetching.
-# FormType: Survey Form with Dependent Questions and Dynamic Sections
+ FormType: Survey Form with Dependent Questions and Dynamic Sections
  1.
  FormFields:
  ○ Full Name(Text)
